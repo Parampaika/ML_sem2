@@ -5,7 +5,7 @@
 - смазанное фото
 - отсутствие объекта на фото
 
-[Результаты](src\Multiclass%20classifier.ipynb#Результаты)
+[Результаты](src/Multiclass%20classifier.ipynb#Dataset%20preparation)
 
 [Пример прогноза](src/Multiclass%20classifier.ipynb#Пример%20прогноза)
 
